@@ -10,22 +10,6 @@
 * โปรเจคนี้มุ่งเน้นในการสร้าง Predictive Model เพื่อทำนายลูกค้าที่มีแนวโน้มที่จะยกเลิกบริการในอนาคต
 
 
-## Data Source
-
-### Data Set 
-```bash
-WA_Fn-UseC_-Telco-Customer-Churn.csv
-```
-
-
-### Source
-
-```bash
-
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
-
-```
-
 ## Methodology (ขั้นตอนในการทำงาน)
 
 ### 1. Data Preprocessing
@@ -48,6 +32,21 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 ### 5. Model Evaluation
 ประเมินประสิทธิภาพของโมเดลด้วย Metrics ต่างๆเพื่อตัดสินใจในการเลือกโมเดลที่จะนำไปใช้
 
+## Data Source
+
+### Data Set 
+```bash
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+```
+
+
+### Source
+
+```bash
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
+
+```
 
 ## **How to Run the Project**
 
@@ -82,6 +81,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 -   **F1-Score:** 75%
     
 -   **Confusion Matrix:**
+    ```
     precision    recall  f1-score   support
 
            0       0.90      0.72      0.80      1035
@@ -90,7 +90,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
     accuracy                           0.74      1409
    macro avg       0.70      0.75      0.71      1409
 weighted avg       0.80      0.74      0.75      1409
-
+    ```
 
 ## Contact
 
