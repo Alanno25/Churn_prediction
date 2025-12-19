@@ -53,7 +53,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 
 1.  **Clone the repository:**
     ```
-    git clone <URL_ของ_Repo>
+    git clone https://github.com/Alanno25/Churn_prediction.git
     
     ```
     
@@ -93,8 +93,6 @@ weighted avg       0.80      0.74      0.75      1409
     ```
 
 ## Contact
-
-ส่วนนี้ไว้สำหรับคนที่อยากจะติดต่อเราได้ 📩
 
 -   **ชื่อ:** นาย ศุภณัฐ นฤนาทมนตรี  (Mr. Supanut Narunartmontree)
     
