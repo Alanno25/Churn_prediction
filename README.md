@@ -98,4 +98,4 @@ weighted avg       0.80      0.74      0.75      1409
     
 -   **Email:** supanut.narunartmontree@gmail.com
     
--   **LinkedIn:** URL ของ LinkedIn
+-   **LinkedIn:** https://www.linkedin.com/in/supanut-narunartmontree-98122a39b/ /รอแก้
