@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
     jupyter notebook Churn_Prediction_Notebook.ipynb
     
     ```
-## **Results & Model Performance**
+## **Results & Model Performance with Data Test set**
 
 -   **Best Model:** XGBoost + ADASYN
     
